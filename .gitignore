@@ -1,0 +1,6 @@
+.env
+.vscode
+.venv
+.cache
+headers_auth.json
+__pycache__

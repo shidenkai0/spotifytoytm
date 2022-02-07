@@ -1,0 +1,4 @@
+ytmusicapi
+spotipy==2.19.0
+retry
+decorator
